@@ -1,0 +1,5 @@
+__pychache__/
+.python-version
+.ides/
+db.sqlite3
+.idea/workkspace.xml
